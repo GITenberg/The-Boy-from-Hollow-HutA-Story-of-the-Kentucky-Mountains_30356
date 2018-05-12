@@ -1,0 +1,31 @@
+_repo: The-Boy-from-Hollow-HutA-Story-of-the-Kentucky-Mountains_30356
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mullins, Isla May
+    alias: Mullins, Edgar Young, Mrs.
+    birthdate: 1859
+    deathdate: 1936
+    gutenberg_agent_id: '34549'
+    url: http://www.gutenberg.org/2009/agents/34549
+description: ''
+gutenberg_issued: '2009-10-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30356'
+  lccn: '11026611'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mountain life -- Fiction'
+- !lcsh 'Kentucky -- Fiction'
+- !lcc 'PS'
+title: 'The Boy from Hollow Hut
+
+  A Story of the Kentucky Mountains'
+url: http://www.gutenberg.org/ebooks/30356
