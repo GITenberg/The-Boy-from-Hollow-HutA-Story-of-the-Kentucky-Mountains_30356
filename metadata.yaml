@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '34549'
     url: http://www.gutenberg.org/2009/agents/34549
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30356#The-Boy-from-Hollow-HutA-Story-of-the-Kentucky-Mountains
 gutenberg_issued: '2009-10-29'
 gutenberg_type: Text
 identifiers:
